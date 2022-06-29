@@ -2,7 +2,7 @@
 Welcome! I am a graduate student at Stony Brook University studying cosmological tensions. I started this project in February 2022. This is the repository containing code for the work on my (currently unnamed) thesis.
 
 # Introduction
-The standard model of cosmology is $\Lambda$ cold dark matter ($\Lambda$ CDM). In this theory, dark matter behaves as a a cosmological constant, which appears as $\Lambda$ in Einstein's equation. The *cold* property of dark matter means it is non-relativistic and dark meaning it is weakly coupled to the standard model of particle physics. $\Lambda$CDM has a 6-dimensional parameterization as follows:
+The standard model of cosmology is $\Lambda$ cold dark matter \($\Lambda$ CDM\). In this theory, dark matter behaves as a a cosmological constant, which appears as $\Lambda$ in Einstein's equation. The *cold* property of dark matter means it is non-relativistic and dark meaning it is weakly coupled to the standard model of particle physics. $\Lambda$CDM has a 6-dimensional parameterization as follows:
 - $\Omega_b$, the ratio of baryon density to critical density.
 - $\Omega_c$, the ratio of dark matter density to critical density.
 - $H_0$, the Hubble constant.
