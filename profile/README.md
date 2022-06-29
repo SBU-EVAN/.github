@@ -1,4 +1,8 @@
-Welcome! I am a graduate student at Stony Brook University studying cosmological tensions. I started this project in February 2022. This is the repository containing code for the work on my (currently unnamed) thesis.
+![](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/07/planck_s_view_of_the_cosmic_microwave_background/17601794-1-eng-GB/Planck_s_view_of_the_cosmic_microwave_background_pillars.jpg)
+
+Welcome! I am a graduate student at Stony Brook University studying cosmological tensions. I started this project in February 2022. This is the repository containing code for the work on my (currently unnamed) thesis. 
+
+The above image the cosmic microwave background (CMB) observed by the European Space Agency's Planck mission. The color is representing the temperature of the CMB, meaning the image is demonstrating the *anisotropies* in the CMB.
 
 # Introduction
 The standard model of cosmology is $\Lambda$ 
