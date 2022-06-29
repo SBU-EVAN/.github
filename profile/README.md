@@ -24,7 +24,8 @@ The tension in $H_0$ is about $4 \sigma$, large but not enough to claim new phys
 
 Another tension is for the parameter $S_8$.
 Let $\Omega_m = \Omega_b+\Omega_c$ be the total matter density. 
-From $\log(A_s)$ one can determine the root-mean-square of metter fluctions today from linear theory, denoted $\sigma_8$.
+From $\log(A_s)$ one can determine the root-mean-square of metter fluctions today from linear theory, 
+denoted $\sigma_8$.
 Define $S_8 = \sigma_8 (\Omega_m/0.3)^{0.5}$
 $S_8$ is also in tension at about 2-3$\sigma$.
 
