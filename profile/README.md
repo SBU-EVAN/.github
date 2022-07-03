@@ -24,14 +24,19 @@ This parameterization is not unique, however. These are the parameters which we 
 From these parameters there are two that are in notable tension. The most well-known is the Hubble tension. 
 Experiments measuring $H_0$ from the 'early' universe using the cosmic microwave background (CMB) yield different results that experiments from the 'late' universe using weak lensing.
 
-The tension in $H_0$ is about $4 \sigma$, large but not enough to claim new physics.
+<p align="center"><img src="https://cerncourier.com/wp-content/uploads/2021/07/CCJulAug21_INT_hubble.jpg" width="400"><\p>
+
+The tension in $H_0$ is about $4 \sigma$, large but not enough to claim new physics. The above image is from CERN Courier.
 
 Another tension is for the parameter $S_8$.
 Let $\Omega_m = \Omega_b+\Omega_c$ be the total matter density. 
 From $\log(A_s)$ one can determine the root-mean-square of metter fluctions today from linear theory, 
 denoted $\sigma_8$.
-Define $S_8 = \sigma_8 (\Omega_m/0.3)^{0.5}$.
-$S_8$ is also in tension at about 2-3$\sigma$.
+Define $S_8 = \sigma_8 (\Omega_m/0.3)^{0.5}$. This parameter involves two 'standard model' parameters, so the tension is represented in 2d.
+
+<p align="center"><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0927650521000487-gr1.jpg" width="400"><\p>
+
+$S_8$ is also in tension at about 2-3$\sigma$. Image from SnowMass 2021.
 
 The goal of this project is to quantify tensions using the full 5 dimensional parameter space and the uncertainty in the tension. 
 Tension metrics themselves are not error bars, they are estimators of the difference between two data sets. 
